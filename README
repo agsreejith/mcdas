@@ -1,2 +1,3 @@
-This is the code to read the data from the spectrograph.
+Driver for Ocean optics Maya Spectrograph.
+This software controls the spectrograph and reads the data obtained. 
 The python driver for the MAYA spectrograph will be provided on request.
